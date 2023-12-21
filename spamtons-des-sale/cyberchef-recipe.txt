@@ -1,0 +1,1 @@
+https://gchq.github.io/CyberChef/#recipe=DES_Decrypt(%7B'option':'UTF8','string':'SPAMTONS'%7D,%7B'option':'UTF8','string':'INSANITY'%7D,'CBC','Hex','Raw')&input=MTZjMWUwNTI1ZjE1ZjU0ZDhkNTM2NzU5NmFiYzJlODE5OTEzMGE2ZWEyNTdhMjk3

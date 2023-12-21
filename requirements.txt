@@ -1,0 +1,7 @@
+opencv-python
+pillow
+pycryptodome
+randcrack
+requests
+tqdm
+websockets

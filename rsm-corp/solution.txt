@@ -1,0 +1,5 @@
+1. Load VM into VMware 17.x or higher
+2. Add Kali Linux liveboot ISO to CD drive of VM
+3. Boot into the ISO at startup
+4. Mount the disk (`sudo mkdir /mnt/windows && sudo mount /dev/sda1 /mnt/windows`)
+5. Search the whole disk for flag (`grep -ir "GCTF23" /mnt/windows`)

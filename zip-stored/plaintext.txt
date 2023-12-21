@@ -1,0 +1,1 @@
+You have found a ZIP file named ZIP_STORED that contains some key information about this particular CTF Challenge, however, you realise that it is locked.

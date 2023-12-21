@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Dec 20 12:37:19 2023
+Invocation: foremost you_cant_see_me.mp4 
+Output directory: /home/kali/Downloads/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: you_cant_see_me.mp4
+Start: Wed Dec 20 12:37:19 2023
+Length: 145 KB (149375 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      97 KB 	          0 	 
+1:	00000194.png 	      48 KB 	      99665 	  (1000 x 1000)
+Finish: Wed Dec 20 12:37:19 2023
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Dec 20 12:37:19 2023
